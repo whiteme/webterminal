@@ -1,0 +1,1 @@
+docker run -itd -p 8888:8888 --name webterminal pantanal-webssh:1.0.0
